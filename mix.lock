@@ -1,0 +1,7 @@
+%{
+  "decimal": {:hex, :decimal, "2.0.0", "a78296e617b0f5dd4c6caf57c714431347912ffb1d0842e998e9792b5642d697", [:mix], [], "hexpm", "34666e9c55dea81013e77d9d87370fe6cb6291d1ef32f46a1600230b1d44f577"},
+  "dep_from_hexpm": {:hex, :dep_from_hexpm, "0.3.0", "e820a753364b715e84457836317107c340d3bdcaa21b469272da79f29ef5f5cb", [:mix], [], "hexpm", "55b0c9db6c5666a4358e1d8e799f43f3fa091ef036dc0d09bf5ee9f091f07b6d"},
+  "ecto": {:hex, :ecto, "3.6.2", "efdf52acfc4ce29249bab5417415bd50abd62db7b0603b8bab0d7b996548c2bc", [:mix], [{:decimal, "~> 1.6 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: false]}, {:jason, "~> 1.0", [hex: :jason, repo: "hexpm", optional: true]}, {:telemetry, "~> 0.4", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "efad6dfb04e6f986b8a3047822b0f826d9affe8e4ebdd2aeedbfcb14fd48884e"},
+  "poolboy": {:hex, :poolboy, "1.4.2", "619519c7708dd001ce9b61908218d03ff582c3ba44a1e129d694376c2b332d87", [:rebar], [], "hexpm", "6133b67251080f32ffed4f71913cd2998fd6f02fa076677aadf7278b62853938"},
+  "telemetry": {:hex, :telemetry, "0.4.3", "a06428a514bdbc63293cd9a6263aad00ddeb66f608163bdec7c8995784080818", [:rebar3], [], "hexpm", "eb72b8365ffda5bed68a620d1da88525e326cb82a75ee61354fc24b844768041"},
+}
